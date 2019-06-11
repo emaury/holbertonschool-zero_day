@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+# Starting to code at Holberton
